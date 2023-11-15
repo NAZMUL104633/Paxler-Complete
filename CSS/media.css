@@ -1,0 +1,382 @@
+@media(min-width:1400px){
+    
+}
+@media(max-width:1399px){
+    
+}
+@media(max-width:1199px){
+    .nav-link {
+        margin: 0;
+    }
+}
+@media(max-width:991px){
+    .nav-item {
+        display: inherit;
+        margin: auto;
+    }
+    .feedback_hed h1 {
+        font-size: 29px;
+    }
+    .features_content {
+        padding: 19px 10px;
+        width: 100%;
+        height: 100%;
+    }
+    .features_item {
+        padding: 10px;
+    }
+    .sell_headding h1 {
+        font-size: 22px;
+    }
+    .sells_item {
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+    .phone_img img {
+        width: 92%;
+    }
+    
+    .security_sec {
+        padding: 150px 0;
+    }
+    .c_u_logo_info ul li {
+        width: 33px;
+        height: 33px;
+    }
+    .c_u_logo_info ul li a {
+        font-size: 18px;
+    }
+    .c_u_content{
+        margin-left: 5px;
+    }
+    .left_content p {
+        font-size: 12px;
+    }
+    .right_content ul li {
+        margin-left: 6px;
+    }
+    .right_content ul li a {
+        font-size: 12px;
+    }
+    .blog_img img {
+        width: 100%;
+    }
+}
+@media(max-width:767px){
+    .nav-item {
+        display: inherit;
+        margin: auto;
+    }
+    .banner_head h1 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+    .banner_content {
+        margin-bottom: 16px;
+    }
+    .btn_joinus {
+        font-size: 15px;
+    }
+    .security_sec {
+        padding: 178px 0;
+    }
+    .bitcoin_logo img {
+        width: 33%;
+    }
+    .features_content {
+        width: 80%;
+        margin: auto;
+    }
+    .service_heading {
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .service_content {
+        width: 80%;
+        margin: auto;
+    }
+    .sell_headding h1 {
+        text-align: center;
+        font-size: 27px;
+    }
+    .sell_headding span {
+        margin: auto;
+    }
+    .phone_img {
+        text-align: center;
+        margin-bottom: 26px;
+        position: initial;
+    }
+    .phone_img img {
+        margin: 0;
+        width: 57%;
+    }
+    .ret_datails p {
+        margin-bottom: 10px;
+    }
+    .team_man img {
+        width: 80%;
+        margin-top: 10px;
+    }
+    .blog_item {
+        margin-bottom: 18px;
+    }
+    .feedback_sec .owl-carousel .owl-nav .owl-prev i {
+        font-size: 25px;
+    }
+    .feedback_sec .owl-carousel .owl-nav .owl-next i {
+        font-size: 25px;
+    }
+    .right_content ul li {
+        margin: 0;
+        text-align: center;
+     }
+     .right_content ul {
+        display: block;
+     }
+     .blog_img img {
+        width: 100%;
+    }
+    .contuct_us_item {
+        text-align: center;
+    }
+    .contuct_hed h4 {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .contuct_hed span {
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .c_u_logo_info {
+        text-align: center;
+    }
+    .c_u_logo_info ul {
+        justify-content: center;
+    }
+    .c_u_info {
+        justify-content: center;
+    }
+    .left_content p {
+        text-align: center;
+        font-size: 17px;
+    }
+    .email_addres {
+        width: 70%;
+        margin: auto;
+        margin-top: 15px;
+    }
+    .right_content ul li a {
+        font-size: 17px;
+    }
+    .safe_item {
+        left: 39%;
+        top: 8%;
+        width: 22%;
+    }
+    .bitcoin_logo img {
+        width: 57%;
+    }
+    
+    .expart_support {
+    right: 15%;
+    top: 27%;
+    }
+    .mobile_app {
+        left: 15%;
+        bottom: 45%;
+    }
+    .wallet {
+        left: 9%;
+        bottom: 11%;
+    }
+    .recuring {
+        right: 45%;
+        bottom: -6%;
+    }
+    .instant_ex {
+        right: 15%;
+        bottom: 11%;
+    }
+    .service_heading h1 {
+        margin-top: 30px;
+    }
+    .blog_content {
+        width: 80%;
+        margin: auto;
+    }
+    .sells_item {
+        margin-bottom: 32px !important;
+    }
+    .banner_head h1 {
+        width: 73%;
+        margin: auto;
+        margin-bottom: 31px;
+    }
+
+}
+
+@media(max-width:575px){
+    .nav-item {
+        display: inherit;
+        margin: auto;
+    }
+    .banner_head h1 {
+        font-size: 34px;
+        margin-bottom: 20px;
+        width: 73%;
+    }
+    .banner_content {
+        margin-bottom: 10px;
+    }
+    .btn_joinus {
+        font-size: 15px;
+    }
+    .service_heading h1 {
+        font-size: 30px;
+    }
+    .service_content {
+        margin-bottom: 15px;
+    }
+    .sell_icon {
+        height: 45px !important;
+    }
+    .phone_img {
+        text-align: center;
+        margin-bottom: 26px;
+        position: initial;
+    }
+    .phone_img img {
+        margin: 0;
+    }
+    .sells_item {
+        display: block;
+        text-align: center;
+    }
+    .sell_icon {
+        margin: auto;
+    }
+    .cell_content {
+        margin-top: 20px;
+    }
+    .security_sec {
+        padding: 200px 0;
+    }
+    .safe_item {
+        left: 39%;
+        top: 8%;
+        width: 22%;
+    }
+    .bitcoin_logo img {
+        width: 57%;
+    }
+    
+    .expart_support {
+    right: 15%;
+    top: 27%;
+}
+    .mobile_app {
+        left: 8%;
+        bottom: 48%;
+    }
+    .wallet {
+        left: 3%;
+        bottom: 11%;
+    }
+    .recuring {
+        right: 45%;
+        bottom: 0%;
+    }
+    .instant_ex {
+        right: 15%;
+        bottom: 11%;
+    }
+    .ret_datails p {
+        margin-bottom: 5px;
+    }
+    .service_heading h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .sell_headding span {
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .team_datials {
+        margin-bottom: 15px;
+    }
+    .form_all form input {
+        font-size: 12px;
+    }
+    .blog_item {
+        margin-bottom: 15px;
+    }
+    .feedback_sec .owl-carousel .owl-nav .owl-prev i {
+        font-size: 20px;
+    }
+    .feedback_sec .owl-carousel .owl-nav .owl-next i {
+        font-size: 20px;
+    }
+    .contuct_hed h4 {
+        font-size: 30px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .right_content ul li {
+       margin: 0;
+       text-align: center;
+    }
+    .right_content ul {
+       display: block;
+    }
+    .contact_logo img {
+        width:36%;
+    }
+    .blog_content h6 {
+       
+        padding-left: 11%;
+    }
+    .blog_img img {
+        width: 100%;
+    }
+    .contuct_hed span {
+        margin: auto;
+        margin-top: 11px;
+    }
+    .contuct_us_item {
+        text-align: center;
+    }
+    .c_u_logo_info {
+        text-align: center;
+    }
+    .c_u_logo_info ul {
+        justify-content: center;
+    }
+    .c_u_info {
+        justify-content: center;
+    }
+    .left_content p {
+        text-align: center;
+        font-size: 17px;
+    }
+    .email_addres {
+        width: 70%;
+        margin: auto;
+        margin-top: 15px;
+    }
+    .right_content ul li a {
+        font-size: 17px;
+    }
+    
+    .team_carousel .owl-nav .owl-prev, .feedback_sec .owl-carousel .owl-nav .owl-prev{
+        left: 0%;
+    }
+    .team_carousel .owl-nav .owl-next, .feedback_sec .owl-carousel .owl-nav .owl-next{
+        right: 0%;
+    }
+    .contact_logo {
+        margin-bottom: 14px;
+    }
+}
